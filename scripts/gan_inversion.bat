@@ -1,0 +1,1 @@
+python gan_inversion.py --n_iters 500 --img_path image\real_face_sample.jpg

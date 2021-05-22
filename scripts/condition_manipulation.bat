@@ -1,0 +1,1 @@
+python condition_manipulation.py --seed 0 --step -0.1 --n_steps 30 --dataset ffhq --base ganspace --attr1 young --attr2 eyeglasses --lambda1 1 --lambda2 1 --real_image 1 --latent_code_path ffhq_latent/01056.npy --save_path res.jpg
