@@ -1,6 +1,7 @@
 # **I**nstance-**A**ware **L**atent-Space **S**earch
-   
-![avatar](image\result.gif)
+
+<img src='image\result.gif'/>
+<!-- ![avatar](image\result.gif) -->
 
 This is a PyTorch implementation of the following paper:
 
@@ -68,7 +69,8 @@ python condition_manipulation.py --seed 0 --step -0.1 --n_steps 10 --dataset ffh
 
 You will see the result like that:
 
-![avatar](image\real_face_edit.jpg)
+<img src='image\real_face_edit.jpg'/>
+<!-- ![avatar](image\real_face_edit.jpg) -->
 
 To improve the editing quality, we highly recommand you to use the state-of-the-art GAN inversion method like [Id-Invert](https://github.com/genforce/idinvert) or [pixel2image2pixel](https://github.com/eladrich/pixel2style2pixel). 
 **Note**: *You need to make sure that these GAN inversion methods use the same pretrained StyleGAN weights as us.*
