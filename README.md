@@ -9,7 +9,7 @@ This is a PyTorch implementation of the following paper:
 
 Yuxuan Han, Jiaolong Yang and Ying Fu
 
-Paper: comming soon.
+Paper: [https://arxiv.org/abs/2105.12660](https://arxiv.org/abs/2105.12660).
 
 **Abstract**: *Recent works have shown that a rich set of semantic directions exist in the latent space of Generative Adversarial Networks (GANs), which enables various facial attribute editing applications.
 However, existing methods may suffer poor attribute variation disentanglement, leading to unwanted change of other attributes when altering the desired one. 
